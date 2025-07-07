@@ -1,3 +1,3 @@
 # AIForMe
-Sesi belajar AI
-Repositori untuk sesin pembelajaran AI dalam GitHub
+Sesi belajar AI..
+Repositori untuk sesi pembelajaran AI dalam GitHub
