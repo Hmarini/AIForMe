@@ -1,0 +1,2 @@
+# AIForMe
+Sesi belajar AI
